@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color:#F0EEED; 
+}
+
+h1 {
+    color: #332C39;
+}
+
+h2 {
+    color: #C92C6D;
+}
+
+h1, h2 {
+    background-color: #609EA2
+}
+
